@@ -1,0 +1,14 @@
+{
+  "name": "Void",
+  "description": "UV Void prox",
+  "repository": "https://github.com/AstralService/Void",
+  "logo": "na",
+  "keywords": ["void", "uv"],
+  "env": {
+    "BlacklistedIPs": {
+      "description": "Blacklist IPS from entering the site. Leave as default if you don't know what you're doing.",
+      "value": "1.1.1.1,0.0.0.0",
+      "required": false
+    }
+  }
+}
